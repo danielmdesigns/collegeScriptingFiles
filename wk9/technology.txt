@@ -1,0 +1,28 @@
+--Screen resolution defaults--
+--The Affect of Mobile Technology on Web Designing--
+Some years ago, most of the websites were developed and designed for computer users only. The web developers and programmers strived to make their sites and blogs compatible with popular web browsers for computers and designed the sites to best fit the conventional computer screen resolutions. Few years back, web browsing over mobile phones was not very common. But the scenario has changed greatly over the few years.
+
+--The advent of smart phones and web designing--
+With the advent of smart phones and tablets, the number of users who access web over mobile devices has increased drastically. Research shows that the number of users who access web via mobile devices is increasing every thirty days. The progress in mobile technology has also contributed a lot in this growth. This rise in mobile web users has lead web designers to create mobile compatible sites. The trends in the web designing field have changed a lot by the sudden rise in the number of users accessing web via mobiles. Today, web designers seek ways to design the site in such a way that it supports mobile viewing in an appropriate way.
+
+--New trends in web designing--
+Keeping in view the growing number of mobile web users. Following trends are most prevalent in the web designing industry
+
+--Horizontal navigation panels--
+Majority of the websites and blogs these days have got horizontal navigation panels and bold large sized texts for the links. These measures are incorporated for the advantage of the users who access web over mobile devices and mart phones. These measures also help the users to navigate through the pages quickly when browsing over mobiles.
+
+--Grid thumbnail gallery--
+ Web designers are now incorporating grid thumbnail galleries for displaying all the visual elements on a site. Opening and viewing images on the website through mobile browsers is convenient through grid thumbnail galleries.
+
+--Links for social networking sites--
+Users who access web over smart phones or mobiles visit social media sites very often. So web designers now include links to popular social networking sites so that the users can access those sites conveniently through the friendly user interface.
+
+--Image enriched mobile site version--
+ Earlier when designing a mobile version of a website, web designers preferred to include minimum amount of pictures and visual objects because most of the mobiles had smaller screens and low screen resolutions. But with the rise and popularity of smart phones, majority of the mobiles these days boast larger screens and greater screen resolutions. So web designers have modified their mobile versions of the websites and incorporate as much images and visual objects as in the PC version of the site.
+
+--Content--
+Web designers present content for the mobile browsers in a well designed layout. Web designers include sufficient empty spaces in the web pages and text is often broken down in to multiple pages and column for easy viewing.
+
+The rise of the mobile technology has affected web designer to a great extent. Many new trends and standards are being introduced in the web designing sector to present the sites in a pleasant way to the mobile viewers.
+
+Kady Babs is a certified professional and working with Passcertification.com. At Pass Certification you may take advantage of HP0-S36 exam questions and HP0-D13 test. You can try free demos of all certifications with 100% Risk Free Guaranteed. Babs has creative writing skills and helping people to get certified on first try

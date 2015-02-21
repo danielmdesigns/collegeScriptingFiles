@@ -1,0 +1,248 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Final Project</title>
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/lightbox-2.6.min.js"></script>
+<link href="css/lightbox.css" rel="stylesheet" />
+<link href='http://fonts.googleapis.com/css?family=Cutive|Abel|Esteban' rel='stylesheet' type='text/css'>
+
+<style>
+
+*{
+	margin:0;
+	padding:0;
+}
+
+#header{
+	height:75px;
+	background:#010101;
+	margin:auto;
+	padding:10px;
+}
+
+
+.photoscroll{
+	height:500px;
+	background:url(images/workspace.jpg);
+	background-position:bottom;
+	line-height:150px;
+	color:#FFF;
+	text-align:center;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:100px;
+	line-height:500px;
+}
+
+.topic1{
+	height:300px;
+	background:#FFF;
+	line-height:150px;
+	font-family: 'Abel', sans-serif;
+	letter-spacing:0px;
+	padding-bottom:30px;
+	padding-top:0px;
+}
+
+.topic2{
+	height:750px;
+	background:#80b518;
+	line-height:150px;
+	font-family: 'Abel', sans-serif;
+	letter-spacing:0px;
+	padding-bottom:15px;
+	margin:auto;
+}
+
+
+.left{
+	width:300px;
+	height:65px;
+	background:transparent;
+	float:left;
+	padding-right:100px;
+	padding-top:10px;
+	font:Georgia, "Times New Roman", Times, serif;
+	color:#FFF;
+	font-size:24px;
+	line-height:75px;
+	text-align:center;
+	font-style:italic;
+}
+
+.right{
+	width:600px;
+	height:75px;
+	background:transparent;
+	float:right;
+	font-family: 'Abel', sans-serif;
+	color:#FFF;
+	font-size:16px;
+	line-height:75px;
+	text-align:center;
+}
+
+.right ul li{
+	margin:0 20px;
+	display:inline;
+}
+
+a{color:#fff;
+}
+
+a:link{
+	color:#FFF;
+	font-size:16px;
+	text-decoration:none;
+	font-family: 'Abel', sans-serif;
+}
+
+a:visted{
+	color:#FFF;
+	font-size:16px;
+	text-decoration:none;
+	font-family: 'Abel', sans-serif;
+}
+
+a:hover{
+	color:#80b518;
+	text-decoration:underline;
+	font-size:16px;
+	font-family: 'Abel', sans-serif;
+}
+
+a:active{
+	color:#FFF;
+	font-size:16px;
+	text-decoration:none;
+	font-family: 'Abel', sans-serif;
+}
+
+p{
+	width:750px;
+	margin:auto;
+	padding-bottom:10px;
+	line-height:30px;
+	text-align:justify;
+	font-size:16px;
+}
+
+.heading{
+	text-align:center;
+	font-family: 'Esteban', serif;
+	font-size:24px;
+	color:#80b518;
+}
+
+.heading2{
+	text-align:center;
+	font-family: 'Esteban', serif;
+	font-size:24px;
+	color:#FFF;
+}
+
+
+.tech{
+	text-align:center;
+	font-family: 'Abel', sans-serif;
+	font-size:75px;
+	color:#FFF;
+	line-height:75px;
+	padding:150px;
+	
+}
+
+.gallery{
+	width:1000px;
+	height:600px;
+	margin:auto;
+	
+}
+
+.boxes{
+	width:300px;
+	height:250px;
+	background:#F00;
+	float:left;
+	margin:10px;
+}
+
+.photos1{
+	margin:auto;
+}
+
+footer{
+	height:100px;
+	color:#000;
+	background:#000;
+	font-family: 'Abel', sans-serif;
+	color:#FFF;
+	font-size:16px;
+	line-height:100px;
+	text-align:center;
+}
+
+</style>
+
+</head>
+
+<div id="header">
+
+<section class="left"> <img src="images/WDlogo.png" width="94" height="50" alt="WD Logo"> </section>
+
+<section class="right">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="typography.html">Typography</a></li>
+<li><a href="mobile.html">Mobile</a></li>
+<li><a href="javascript.html">Javascript</a></li>
+<li><a href="function.html">Function</a></li>
+</ul>
+</section>
+
+</div>
+
+<div class="photoscroll">
+
+<p class="tech">
+Technology on <br>
+Web Development
+</p>
+
+</div>
+
+<div class="topic1">
+
+<section class="heading">jQuery & Javascript</section>
+
+<p>
+JavaScript is an important part of web designing. Although, the technological development in JavaScript specifications has not been done to a great level but the importance of JavaScript in web designing cannot be denied. Web designers should have an idea of how to use JavaScript properly.</p>
+
+</div>
+
+
+<div class="topic2">
+
+<section class="heading2">jQuery Gallery</section>
+
+<section class="gallery">
+<div class="boxes"> <a href="images/java1.jpg" data-lightbox="image-1" title="My caption"><img src="images/thumbs/javathumb1.jpg" width="300" height="250" alt="Pattern 1"></a></div>
+<div class="boxes"> <a href="images/java2.jpg" data-lightbox="image-1" title="My caption"><img src="images/thumbs/javathumb2.jpg" width="300" height="250" alt="Pattern 2"></a></div>
+<div class="boxes"> <a href="images/java3.jpg" data-lightbox="image-1" title="My caption"><img src="images/thumbs/javathumb3.jpg" width="300" height="250" alt="Pattern 3"></a></div>
+<div class="boxes"> <a href="images/java4.jpg" data-lightbox="image-1" title="My caption"><img src="images/thumbs/javathumb4.jpg" width="300" height="250" alt="Pattern 4"></a></div>
+<div class="boxes"> <a href="images/java5.jpg" data-lightbox="image-1" title="My caption"><img src="images/thumbs/javathumb5.jpg" width="300" height="250" alt="Pattern 5"></a></div>
+<div class="boxes"> <a href="images/java6.jpg" data-lightbox="image-1" title="My caption"><img src="images/thumbs/javathumb6.jpg" width="300" height="250" alt="Pattern 6"></a></div>
+</section>
+</div>
+
+
+<footer>
+
+© 2013 Daniel Maldonado, Final Project
+
+</footer>
+<body>
+</body>
+</html>

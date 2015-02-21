@@ -1,0 +1,92 @@
+@charset "UTF-8";
+/* CSS Document */
+#wrapper{
+	width:960px;
+	margin:auto;
+	background:#CCC;
+	height:auto;
+	padding-left:50px;
+}
+
+.left{
+	width:350px;
+	float:left;
+	border-right:2px solid #666;
+	padding-left:10px;
+}
+
+.right{
+	width:535px;
+	height:100px;
+	background:#000;
+	float:left;
+	padding-left:10px;
+	padding-top:10px;
+}
+	
+
+.circle{
+	width:150px;
+	height:150px;
+	background:#000;
+	-moz-border-radius:70px;
+	-webkit-border-radius:70px;
+	border-radius:70px;
+	margin-bottom:30px;
+}
+
+.square{
+	width:150px;
+	height:150px;
+	background:#000;
+	margin-bottom:20px;
+}
+
+.oval{
+	width:300px;
+	height:150px;
+	background:#000;
+	-moz-border-radius:150px;
+	-webkit-border-radius:150px;
+	border-radius:150px;
+	margin-bottom:20px;
+}
+
+.tri_up{
+	width:0px;
+	height:0px;
+	border-bottom:120px solid #000;
+	border-left:60px solid transparent;
+	border-right:60px solid transparent;
+	margin-bottom:20px;
+}
+
+.tri_down{
+	width:0px;
+	height:0px;
+	border-top:120px solid #000;
+	border-left:60px solid transparent;
+	border-right:60px solid transparent;
+	margin-bottom:30px;
+}
+
+.tri_left{
+	width:0px;
+	height:0px;
+	border-right:100px solid #000;
+	border-top:50px solid transparent;
+	border-bottom:50px solid transparent;
+	margin-bottom:40px;
+}
+
+.tri_right{
+	width:0px;
+	height:0px;
+	border-left:100px solid #FFF;
+	border-top:45px solid transparent;
+	border-bottom:45px solid transparent;
+	margin-bottom:40px;
+}
+	
+	
+	

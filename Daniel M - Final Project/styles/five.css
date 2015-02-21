@@ -1,0 +1,62 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+#container{
+	width:960px;
+	height:auto;
+	background:#000;
+	color:#FFF;
+	margin:auto;
+}
+
+header{
+	height:90px;
+	width:960;
+	background:#000;
+	padding-top:10px;
+	line-height:90px;
+}
+
+nav{
+	width:960px;
+	height:50px;
+	background:#666;
+	
+}
+
+.main{
+	height:600px;
+	background:#CCC;
+}
+
+footer{
+	width:100%;
+	background:#000;
+	height:50px;
+}
+
+.boxes{
+	width:300px;
+	height:250px;
+	background:#F00;
+	float:left;
+	margin:10px;
+}
+
+.box1{
+	width:940px;
+	height:80px;
+	background:#FF0;
+	margin:auto;
+	color:#000;
+	font-family: 'Molle', cursive;
+	font-size:48px;
+	text-align:center;
+	
+}
+	
